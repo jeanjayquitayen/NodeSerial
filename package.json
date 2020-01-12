@@ -1,0 +1,22 @@
+{
+  "name": "arduinoserial",
+  "version": "1.0.0",
+  "description": "serial communication with arduino",
+  "main": "ArduinoSerial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanjayquitayen/NodeSerial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanjayquitayen/NodeSerial/issues"
+  },
+  "homepage": "https://github.com/jeanjayquitayen/NodeSerial#readme",
+  "dependencies": {
+    "serialport": "^8.0.6"
+  }
+}
